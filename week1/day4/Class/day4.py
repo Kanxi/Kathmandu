@@ -34,3 +34,4 @@ if __name__=="__main__":
    alto=Maruti(8,5,"petrol","Alto")
    print(alto.door)
    print(alto.model)
+   
