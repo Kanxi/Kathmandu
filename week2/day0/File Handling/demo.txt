@@ -1,0 +1,1 @@
+Hi I am learning how to write in a file using python

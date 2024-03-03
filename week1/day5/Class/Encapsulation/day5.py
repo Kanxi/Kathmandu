@@ -21,7 +21,7 @@ class BankingApp:
     def security(self):
         pass
 class MobileApp(BankingApp):
-    pass
+    pass 
 
 if __name__=="__main__":
     app=MobileApp()
